@@ -1,0 +1,8 @@
+Ticket number: NMG-0047
+Affected user: Jane Cooper (jcooper@NMG.com)
+Issue reported: Unable to access HR shared resources. Desktop policies and mapped drives differ from teammates.
+Root cause: Based on the findings, Jane Cooper was placed in the Operations Groop and was given the wrong credentials.
+Fix applied: I, Dawon Hall removed Jane from the Operations Gropu and added her to the HR group
+Verification: I, Dawon Hall verified that Jane Cooper is in the "HR" file. Once I clicked the file, her name was present
+Date resolved: 10/28/26
+Resolved by: Dawon Hall
